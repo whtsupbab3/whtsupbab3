@@ -10,7 +10,7 @@ Hey there, I'm Alina, an MMath student in Computer Science at the University of 
 
 My research is on spiking neural networks and neuromorphic computing, combining Vector Symbolic Architectures (VSAs) and Spatial Semantic Pointers (SSPs) with event-based vision.
 
-I'm also a full-stack engineer. Previously I was an Associate Software Engineer at DTN in Seville, building a Geographical Information System for airport operations. I'm a top open-source contributor to [poidh](https://poidh.xyz), with 290+ merged pull requests. 
+I'm also a full-stack engineer. Previously I was an Associate Software Engineer at DTN in Seville, building a Geographical Information System for airport operations. I'm one of the top open-source contributors to [poidh](https://poidh.xyz), with 290+ merged pull requests. 
 <!-- 
 Currently tracking ~~deadlines~~ insects ;) -->
 
