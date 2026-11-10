@@ -6,13 +6,11 @@
   <a href="mailto:alytovch@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4%3D" alt="Email" /></a>
 </p>
 
-Hey there, I'm Alina, an MMath student in Computer Science at the University of Waterloo, based in Ontario, Canada. When I'm not in the lab, I'm hiking, cycling, or playing volleyball.
+Hey there, I'm Alina, an MMath student in Computer Science at the University of Waterloo, based in Canada. When I'm not in the lab, I'm hiking, cycling, or playing volleyball.
 
 My research is on spiking neural networks and neuromorphic computing, combining Vector Symbolic Architectures (VSAs) and Spatial Semantic Pointers (SSPs) with event-based vision.
 
-I'm also a full-stack engineer. Previously I was an Associate Software Engineer at DTN in Seville, building a Geographical Information System for airport operations. I'm one of the top open-source contributors to [poidh](https://poidh.xyz), with 290+ merged pull requests. 
-<!-- 
-Currently tracking ~~deadlines~~ insects ;) -->
+I'm also a full-stack engineer. Previously I was an Associate Software Engineer at DTN, building a Geographical Information System for airport operations. I'm one of the top open-source contributors to [poidh](https://poidh.xyz), with 290+ merged pull requests. 
 
 ---
 
