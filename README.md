@@ -20,7 +20,7 @@ I'm also a full-stack engineer. Previously I was an Associate Software Engineer 
 First author, ICANN 2026 (oral). Gives each neuron time-shifted copies of its spike train so a plain linear readout can use recent history, matching or beating standard decoding with 3× fewer neurons at the same spike budget. [Code](https://github.com/whtsupbab3/Delay-Augmented-Linear-Decoding-in-Feedforward-SNNs)
 
 **Event-camera insect tracking**\
-Paper in progress, part of the [Canadian Neuromorphic Engineering Workshop](https://github.com/CanadianNeuromorphicEngineeringWorkshop). A multi-object tracker that finds flying insects in event-camera data by their wingbeat frequency, extending a single-target quadcopter tracker to many insects at once. Runs in plain C, hundreds of times faster than real time.
+Paper in progress, part of the [Canadian Neuromorphic Engineering Workshop](https://github.com/CanadianNeuromorphicEngineeringWorkshop). A multi-object tracker that finds flying insects in event-camera data by their wingbeat frequency, extending a single-target quadcopter tracker to many insects at once. Runs in plain C, hundreds of times faster than real time. [Code](https://github.com/whtsupbab3/event-wingbeat-tracking)
 
 **[Trusting the Detector: Comparing Explanations for Deepfake Identification Across Modalities](https://ieeexplore.ieee.org/abstract/document/11558887)**\
 Co-author, IEEE ICDE 2026. Compares explanation methods for deepfake detectors across modalities, to see whether the reasons a detector gives for calling something fake are ones we can actually trust.
